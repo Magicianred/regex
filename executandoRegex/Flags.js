@@ -1,4 +1,4 @@
-// g - global
+// g - global (espera vários resultados)
 // i - ignore case
 
 const texto = 'Carlos assinou o abaixo-assinado.'
